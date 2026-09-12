@@ -242,8 +242,8 @@ machine-readable metadata):
              Localization: Benchmarking Deep Reinforcement Learning and
              Generative-AI Backbones on 10/24/77 GHz Micro-Doppler Data},
   author  = {Mahabub, Atik and Vakili, Shervin},
-  journal = {IEEE Open Journal of Signal Processing},
-  year    = {2026},
+  journal = {Soon},
+  year    = {Soon},
   note    = {Institut national de la recherche scientifique (INRS-EMT)}
 }
 ```
